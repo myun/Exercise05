@@ -17,5 +17,6 @@ for letter in letters:
 
 for alpha in alphabet:
     print alpha
+#For a spark graph type python lettercount.py twain.txt | spark
 
 f.close()
