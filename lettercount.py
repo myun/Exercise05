@@ -15,6 +15,7 @@ for letter in letters:
     else: 
         alphabet[index] += 1
 
-print alphabet
+for alpha in alphabet:
+    print alpha
 
 f.close()
